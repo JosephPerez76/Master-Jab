@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Business</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between">
+            <a href="index.html" class="text-white font-bold text-lg">Construction Business</a>
+            <div class="space-x-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Home</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="services.html" class="text-gray-300 hover:text-white">Services</a>
+                <a href="projects.html" class="text-gray-300 hover:text-white">Projects</a>
+                <a href="contact.html" class="text-gray-300 hover:text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <header class="bg-blue-600 text-white py-20">
+        <div class="container mx-auto text-center">
+            <h1 class="text-4xl font-bold">Welcome to Our Construction Business</h1>
+            <p class="mt-4">Quality construction services you can trust</p>
+        </div>
+    </header>
+    <main class="container mx-auto py-10">
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-4">Our Services</h2>
+            <p>We offer a wide range of construction services including residential, commercial, and industrial projects.</p>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold mb-4">Recent Projects</h2>
+            <p>Take a look at some of our recent projects and see the quality of our work.</p>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Construction Business. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
