@@ -42,3 +42,179 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Construction Business</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between">
+            <a href="index.html" class="text-white font-bold text-lg">Construction Business</a>
+            <div class="space-x-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Home</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="services.html" class="text-gray-300 hover:text-white">Services</a>
+                <a href="projects.html" class="text-gray-300 hover:text-white">Projects</a>
+                <a href="contact.html" class="text-gray-300 hover:text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto py-10">
+        <section class="mb-10">
+            <h1 class="text-4xl font-bold mb-4">About Us</h1>
+            <p>Our construction business is dedicated to providing top-quality construction services for residential, commercial, and industrial projects. With a team of experienced professionals, we ensure that every project is completed to the highest standards.</p>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold mb-4">Our Mission</h2>
+            <p>Our mission is to deliver exceptional construction services that exceed our clients' expectations. We strive for excellence in every aspect of our work, from project planning to execution.</p>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Construction Business. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services - Construction Business</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between">
+            <a href="index.html" class="text-white font-bold text-lg">Construction Business</a>
+            <div class="space-x-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Home</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="services.html" class="text-gray-300 hover:text-white">Services</a>
+                <a href="projects.html" class="text-gray-300 hover:text-white">Projects</a>
+                <a href="contact.html" class="text-gray-300 hover:text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto py-10">
+        <section class="mb-10">
+            <h1 class="text-4xl font-bold mb-4">Our Services</h1>
+            <ul class="list-disc pl-5">
+                <li class="mb-2">Residential Construction</li>
+                <li class="mb-2">Commercial Construction</li>
+                <li class="mb-2">Industrial Construction</li>
+                <li class="mb-2">Renovation and Remodeling</li>
+                <li class="mb-2">Project Management</li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="text-2xl font-bold mb-4">Why Choose Us</h2>
+            <p>We are committed to delivering high-quality construction services with a focus on customer satisfaction. Our team is experienced, skilled, and dedicated to completing every project on time and within budget.</p>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Construction Business. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Projects - Construction Business</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between">
+            <a href="index.html" class="text-white font-bold text-lg">Construction Business</a>
+            <div class="space-x-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Home</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="services.html" class="text-gray-300 hover:text-white">Services</a>
+                <a href="projects.html" class="text-gray-300 hover:text-white">Projects</a>
+                <a href="contact.html" class="text-gray-300 hover:text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto py-10">
+        <section class="mb-10">
+            <h1 class="text-4xl font-bold mb-4">Our Projects</h1>
+            <p>Here are some of the projects we've completed:</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+                <div class="bg-white shadow-md rounded-lg overflow-hidden">
+                    <img src="https://source.unsplash.com/random/600x400?construction" alt="Project Image" class="w-full">
+                    <div class="p-4">
+                        <h3 class="text-xl font-bold">Project Title</h3>
+                        <p class="mt-2">Description of the project and the work we did.</p>
+                    </div>
+                </div>
+                <!-- Repeat project cards as needed -->
+            </div>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Construction Business. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Construction Business</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <nav class="bg-gray-800 p-4">
+        <div class="container mx-auto flex justify-between">
+            <a href="index.html" class="text-white font-bold text-lg">Construction Business</a>
+            <div class="space-x-4">
+                <a href="index.html" class="text-gray-300 hover:text-white">Home</a>
+                <a href="about.html" class="text-gray-300 hover:text-white">About</a>
+                <a href="services.html" class="text-gray-300 hover:text-white">Services</a>
+                <a href="projects.html" class="text-gray-300 hover:text-white">Projects</a>
+                <a href="contact.html" class="text-gray-300 hover:text-white">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto py-10">
+        <section class="mb-10">
+            <h1 class="text-4xl font-bold mb-4">Contact Us</h1>
+            <form class="space-y-6">
+                <div>
+                    <label for="name" class="block text-sm font-medium text-gray-700">Name</label>
+                    <input type="text" id="name" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring focus:border-blue-300" required>
+                </div>
+                <div>
+                    <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
+                    <input type="email" id="email" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring focus:border-blue-300" required>
+                </div>
+                <div>
+                    <label for="message" class="block text-sm font-medium text-gray-700">Message</label>
+                    <textarea id="message" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring focus:border-blue-300" rows="4" required></textarea>
+                </div>
+                <div>
+                    <button type="submit" class="w-full px-4 py-2 bg-blue-600 text-white font-bold rounded-md hover:bg-blue-700 focus:outline-none focus:ring focus:ring-blue-300">Send Message</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2024 Construction Business. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
